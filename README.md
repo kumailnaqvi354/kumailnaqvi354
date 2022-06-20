@@ -52,10 +52,5 @@
 
 
 
-
-
-
-
-
 [![Professional GitHub stats](https://github-readme-stats.vercel.app/api?username=SAsimRaza)](https://github.com/SAsimRaza/github-readme-stats)
 [![Academic GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedAsimRazaNaqvi)](https://github.com/SyedAsimRazaNaqvi/github-readme-stats)
