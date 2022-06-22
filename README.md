@@ -14,6 +14,9 @@
     />
   </a>
 - # Github Old Account <a href="https://github.com/SyedAsimRazaNaqvi" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/git.png" alt="GitHub" width="30"></a>
+ [![Academic GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedAsimRazaNaqvi)](https://github.com/SyedAsimRazaNaqvi/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAsimRazaNaqvi&layout=compact&langs_count=10)](https://github.com/SyedAsimRazaNaqvi/github-readme-stats)
+</details>
 
 # TECH STACK
   ###  Languages (I have been excelling in)
@@ -35,11 +38,9 @@
 
 -->
 
-<details>
-  <summary>:zap: Top Languages</summary>
+
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAsimRazaNaqvi&layout=compact&langs_count=10)](https://github.com/SyedAsimRazaNaqvi/github-readme-stats)
-</details>
+
 
 
 
@@ -53,4 +54,4 @@
 
 
 [![Professional GitHub stats](https://github-readme-stats.vercel.app/api?username=SAsimRaza)](https://github.com/SAsimRaza/github-readme-stats)
-[![Academic GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedAsimRazaNaqvi)](https://github.com/SyedAsimRazaNaqvi/github-readme-stats)
+
