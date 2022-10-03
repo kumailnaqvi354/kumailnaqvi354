@@ -18,6 +18,8 @@
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAsimRazaNaqvi&layout=compact&langs_count=10)](https://github.com/SyedAsimRazaNaqvi/github-readme-stats)
 </details>
 
+<a><img src="https://api.daily.dev/devcards/129e89629e14481cbfcd09acc6f3f7e9.png?r=yyk" width="400" alt="Asim Raza's Dev Card"/></a>
+
 # TECH STACK
   ###  Languages (I have been excelling in)
   
