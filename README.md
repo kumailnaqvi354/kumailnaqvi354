@@ -19,12 +19,27 @@
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAsimRazaNaqvi&layout=compact&langs_count=10)](https://github.com/SyedAsimRazaNaqvi/github-readme-stats)
 </details>
 
+# BLOCKCHAIN STACK
+  ###  EVM 
+  
+      🐍 Ethereum
+      🤖 Polygon
+      🦾 Binance Smart Chain
+      🐍 EVM L2 supported Chains
+      
+  ###  Non-EVM 
+  
+      🐍 EOS
+      🤖 Solana
+      🦾 Alacrity
+
 # TECH STACK
   ###  Languages (I have been excelling in)
   
       🐍 Solidity
       🤖 Javascript
       🦾 Java
+      🐍 C++ 
       📦 Rust (Beginner)
 
 <!--
