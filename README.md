@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as a Blockchain Engineer in XORD
 - 💻 Excited to contribute open source development
-- 🌱 I’m currently research on EVM based Architecture and DeFi Protocols
+- 🌱 I’m currently research on EVM Architecture and DeFi Protocols
 - 👯 I’m looking to collaborate on Ethereum or related
 - 💬 Ask me about Eth
 - 📫 How to reach me: [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Syed_AsimRN.svg?style=social&label=Follow%20%40Syed_AsimRN)](https://twitter.com/Syed_AsimRN) <a href="https://www.linkedin.com/in/asim-raza-76b32a185/">
