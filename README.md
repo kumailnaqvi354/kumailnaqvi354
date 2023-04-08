@@ -6,7 +6,7 @@
 - 💻 Excited to contribute open source development
 - 🌱 I’m currently  doing research on EVM Architecture and DeFi Protocols
 - 👯 I’m looking to collaborate on Ethereum or related
-- 📫 How to reach me: [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/0xasimraza.svg?style=social&label=Follow%20%400xasimraza)](https://twitter.com/kumailnaqvi616) <a href="https://www.linkedin.com/in/blockchain-kumail-ali/">
+- 📫 How to reach me: [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kumailnaqvi616.svg?style=social&label=Follow%20%40kumailnaqvi616)](https://twitter.com/kumailnaqvi616) <a href="https://www.linkedin.com/in/blockchain-kumail-ali/">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
       alt="LinkedIn"
