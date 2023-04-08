@@ -13,10 +13,10 @@
     />
   </a>
   
-[![Professional GitHub stats](https://github-readme-stats.vercel.app/api?username=kumailnaqvi354)](https://github.com/kumailnaqvi354/github-readme-stats)
+<!-- [![Professional GitHub stats](https://github-readme-stats.vercel.app/api?username=kumailnaqvi354)](https://github.com/kumailnaqvi354/github-readme-stats)
 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumailnaqvi354&layout=compact&langs_count=10)](https://github.com/kumailnaqvi354/github-readme-stats)
-</details>
+</details> -->
 
 # BLOCKCHAIN STACK
   ###  EVM 
