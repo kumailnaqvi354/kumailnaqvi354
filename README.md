@@ -30,6 +30,8 @@
   
       🐍 EOS
       🤖 Solana
+      ![image](https://user-images.githubusercontent.com/57100826/233341491-cf7b99a6-3e5e-49cb-985b-88b11e76e468.png) Near
+
 
 # TECH STACK
   ###  Languages (I have been excelling in)
