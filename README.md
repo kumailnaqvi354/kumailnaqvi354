@@ -30,7 +30,7 @@
   
       🐍 EOS
       🤖 Solana
-      ![image](https://user-images.githubusercontent.com/57100826/233341491-cf7b99a6-3e5e-49cb-985b-88b11e76e468.png) Near
+      💻 Near
 
 
 # TECH STACK
@@ -40,31 +40,3 @@
       🤖 Javascript
       🦾 Typescript 
       📦 Rust (Beginner)
-
-<!--
-**SAsimRaza/SAsimRaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
--->
-
-
-  
-
-
-
-
-
-
-
-
-
-
-<!-- 
-- # Github Old Account <a href="https://github.com/SyedAsimRazaNaqvi" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/git.png" alt="GitHub" width="30"></a>
- [![Academic GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedAsimRazaNaqvi)](https://github.com/SyedAsimRazaNaqvi/github-readme-stats) -->
