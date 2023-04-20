@@ -28,9 +28,9 @@
       
   ###  Non-EVM 
   
-      🐍 EOS
       🤖 Solana
       💻 Near
+      🐍 EOS
 
 
 # TECH STACK
