@@ -1,8 +1,8 @@
 ### Hi there, I'm KUMAIL ALI👋
 
-# I'm a FullStack Blockchain Developer
+# I'm a Full Stack Blockchain Developer
 
-- 🔭 I’m currently working as a Blockchain Engineer in NXTLABS
+- 🔭 I’m currently working as a Blockchain Developer in NXTLABS
 - 💻 Excited to contribute open source development
 - 🌱 I’m currently  doing research on EVM Architecture and DeFi Protocols
 - 👯 I’m looking to collaborate on Ethereum or related
