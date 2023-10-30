@@ -2,7 +2,7 @@
 
 # I'm a Full Stack Blockchain Developer
 
-- 🔭 I’m currently working as a Blockchain Developer in NXTLABS
+- 🔭 I’m currently working as a Blockchain Developer in ByteCorp
 - 💻 Excited to contribute open source development
 - 🌱 I’m currently  doing research on EVM Architecture and DeFi Protocols
 - 👯 I’m looking to collaborate on Ethereum or related
@@ -30,13 +30,12 @@
   
       🤖 Solana
       💻 Near
-      🐍 EOS
-
 
 # TECH STACK
   ###  Languages (I have been excelling in)
   
       🐍 Solidity
+      🌱 GoLang
       🤖 Javascript
       🦾 Typescript 
       📦 Rust (Beginner)
