@@ -1,6 +1,6 @@
 ### Hi there, I'm KUMAIL ALI👋
 
-# I'm a Full Stack Blockchain Developer
+# I'm a Software Engineer
 
 - 🔭 I’m currently working as a Blockchain Developer in ByteCorp
 - 💻 Excited to contribute open source development
